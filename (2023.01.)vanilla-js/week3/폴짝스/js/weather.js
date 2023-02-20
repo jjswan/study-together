@@ -1,5 +1,4 @@
-const APIKey = "b134b2942ff9df9df911ecfc5a6c700c";
-let IMGKey = "";
+
 
 function onGeoSuccess(latitude, longitude){
   if('geolocation' in navigator){
